@@ -1,0 +1,55 @@
+html{
+    margin:0;
+    padding:0;
+    background:#ffffff;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+    background-color: grey;
+}
+header {
+    background-color: bisque;
+    width:400px;
+    height:20px;
+}
+footer {
+    background-color: red;
+    width:400px;
+    height:20px;
+}
+h1 {
+    font-size: large; 
+    color:rgb(255, 233, 233)
+}
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:wheat;
+}
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center
+    }
+thead {
+    background-color: white;
+    color: black;
+}
+#cel1 {background-color: rgb(242, 248, 254); color:rgb(182, 162, 162)}
+#cel2 {background-color: rgb(192, 220, 246);}
+#cel3 {background-color: rgb(164, 213, 255); color:rgb(139, 111, 111)}
+#cel4 {background-color: rgb(107, 182, 249);}
+#cel5 {background-color: rgb(55, 157, 247);color:rgb(111, 68, 68)}
+#cel6 {background-color: rgb(22, 146, 255);}
+#cel7 {background-color: rgb(0, 83, 155);color:rgb(48, 23, 23)}
+#cel8 {background-color: rgb(0, 42, 79);}
+#cel9 {background-color: rgb(242, 148, 254);color:rgb(126, 30, 30)}
+#cel10 {background-color: rgb(192, 120, 246);}
+#cel11 {background-color: rgb(164, 113, 255);color:rgb(67, 62, 62)}
+#cel12 {background-color: rgb(107, 82, 249);}
+#cel13 {background-color: rgb(55, 57, 247);color:rgb(46, 10, 10)}
+#cel14 {background-color: rgb(22, 46, 255);}
+#cel15 {background-color: rgb(0, 3, 155);color:rgb(19, 161, 52)}
+#cel16 {background-color: rgb(0, 2, 79);}
